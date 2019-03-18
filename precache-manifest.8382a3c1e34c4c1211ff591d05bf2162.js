@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-ecwid/static/media/checkbox-unchecked.abf2d2b0.svg"
   },
   {
-    "revision": "8c6533e10367d0901e362f7d295e03b9",
-    "url": "/cloud-sample-app-react-ecwid/static/media/radio-button.8c6533e1.svg"
-  },
-  {
     "revision": "392cb2e0295e00036c634860a8f0cbad",
     "url": "/cloud-sample-app-react-ecwid/static/media/checkbox-checked.392cb2e0.svg"
+  },
+  {
+    "revision": "8c6533e10367d0901e362f7d295e03b9",
+    "url": "/cloud-sample-app-react-ecwid/static/media/radio-button.8c6533e1.svg"
   },
   {
     "revision": "2be28ed8f21b6c3baddf",
@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-ecwid/static/media/Core-icons.1b9af651.ttf"
   },
   {
-    "revision": "6823218d348f1ba4e035908b672c745a",
-    "url": "/cloud-sample-app-react-ecwid/static/media/Core-icons.6823218d.svg"
-  },
-  {
     "revision": "14fb01c406a39aab06275f5578c7316f",
     "url": "/cloud-sample-app-react-ecwid/static/media/Core-icons.14fb01c4.woff"
+  },
+  {
+    "revision": "6823218d348f1ba4e035908b672c745a",
+    "url": "/cloud-sample-app-react-ecwid/static/media/Core-icons.6823218d.svg"
   },
   {
     "revision": "d93c4988c8fcd47acd7cd9c218d09e46",

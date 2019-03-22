@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-ecwid/static/media/radio-button-checked.1a84a9c1.svg"
   },
   {
-    "revision": "2be28ed8f21b6c3baddf",
-    "url": "/cloud-sample-app-react-ecwid/static/css/main.765794f9.chunk.css"
+    "revision": "2a5c6f3d0c1ae9a780f7",
+    "url": "/cloud-sample-app-react-ecwid/static/css/main.b3b2b56e.chunk.css"
   },
   {
     "revision": "510e00e31c9003968092",
     "url": "/cloud-sample-app-react-ecwid/static/js/runtime~main.510e00e3.js"
   },
   {
-    "revision": "b0bbba3f0d8c979ce7c7",
-    "url": "/cloud-sample-app-react-ecwid/static/js/2.b0bbba3f.chunk.js"
+    "revision": "90b966236199b6545a0c",
+    "url": "/cloud-sample-app-react-ecwid/static/js/2.90b96623.chunk.js"
   },
   {
     "revision": "171ce4e4cb28e074f5c9967f7db949b3",
@@ -40,12 +40,8 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-ecwid/static/media/radio-button.8c6533e1.svg"
   },
   {
-    "revision": "2be28ed8f21b6c3baddf",
-    "url": "/cloud-sample-app-react-ecwid/static/js/main.2be28ed8.chunk.js"
-  },
-  {
-    "revision": "b2622e38f246209fb933e8b8a6ee76ed",
-    "url": "/cloud-sample-app-react-ecwid/static/media/PTSerif-Bold.b2622e38.woff"
+    "revision": "2a5c6f3d0c1ae9a780f7",
+    "url": "/cloud-sample-app-react-ecwid/static/js/main.2a5c6f3d.chunk.js"
   },
   {
     "revision": "ccdb76a033026dbdc3f08c50f4a5263f",
@@ -60,8 +56,8 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-ecwid/static/media/SourceSansPro-Bold.54f926c7.woff"
   },
   {
-    "revision": "4611bc4557599035d912ff07366ad002",
-    "url": "/cloud-sample-app-react-ecwid/static/media/Core-icons.4611bc45.eot"
+    "revision": "b2622e38f246209fb933e8b8a6ee76ed",
+    "url": "/cloud-sample-app-react-ecwid/static/media/PTSerif-Bold.b2622e38.woff"
   },
   {
     "revision": "1b9af651cbf6b3f133faf2bede0e5266",
@@ -72,11 +68,15 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-ecwid/static/media/Core-icons.14fb01c4.woff"
   },
   {
+    "revision": "4611bc4557599035d912ff07366ad002",
+    "url": "/cloud-sample-app-react-ecwid/static/media/Core-icons.4611bc45.eot"
+  },
+  {
     "revision": "6823218d348f1ba4e035908b672c745a",
     "url": "/cloud-sample-app-react-ecwid/static/media/Core-icons.6823218d.svg"
   },
   {
-    "revision": "d93c4988c8fcd47acd7cd9c218d09e46",
+    "revision": "405de6c7b5d57d672bcaf7a31b590611",
     "url": "/cloud-sample-app-react-ecwid/index.html"
   }
 ];

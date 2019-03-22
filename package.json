@@ -2,7 +2,7 @@
   "name": "dancing-goat",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://owner.github.io/name-of-the-repository/",
+  "homepage": "https://kentico.github.io/cloud-sample-app-react-ecwid/",
   "devDependencies": {
     "cpy-cli": "^2.0.0",
     "cross-env": "^5.2.0",

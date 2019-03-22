@@ -32,7 +32,7 @@ const Footer = props => {
                   <img
                     alt="Follow us on Facebook"
                     className=""
-                    src="/name-of-the-repository/Images/facebook-icon.png"
+                    src="/cloud-sample-app-react-ecwid/Images/facebook-icon.png"
                     title={props.t('followUsOnFacebook')}
                   />
                 </Link>
@@ -44,7 +44,7 @@ const Footer = props => {
                   <img
                     alt="Follow us on Twitter"
                     className=""
-                    src="/name-of-the-repository/Images/twitter-icon.png"
+                    src="/cloud-sample-app-react-ecwid/Images/twitter-icon.png"
                     title={props.t('followUsOnTwitter')}
                   />
                 </Link>

@@ -6173,3 +6173,7 @@ body {
 .application-content > div:first-child {
   display: block !important;
 }
+
+.ec-minicart {
+  padding-top: 10px !important;
+}

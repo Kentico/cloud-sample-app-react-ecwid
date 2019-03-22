@@ -3,7 +3,7 @@ import { Switch, Route, Link } from 'react-router-dom';
 import { translate } from 'react-translate';
 
 import CoffeeStore from '../Components/CoffeeStore';
-import BrewerStore from '../Components/BrewerStore';
+import BrewerStore from '../Components/ECwidBrewerStore';
 
 const Store = props => {
   return (

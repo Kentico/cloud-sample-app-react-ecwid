@@ -4,6 +4,7 @@ import { translate } from 'react-translate';
 import Link from '../Components/LowerCaseUrlLink';
 import { englishCode, spanishCode } from '../Utilities/LanguageCodes';
 import MessageBox from './MessageBox';
+import ShoppingBag from '../Components/ECwidShoppingBag';
 
 const Header = props => {
   const messageBox = props.message && <MessageBox message={props.message} />;
@@ -81,6 +82,9 @@ const Header = props => {
                   >
                     Español
                   </a>
+                </li>
+                <li>
+                  <ShoppingBag language={props.language} />
                 </li>
               </ul>
             </nav>

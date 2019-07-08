@@ -6,9 +6,4 @@ before_script:
 - npm install
 script:
 - npm run build
-deploy:
-  provider: surge
-  project: ./build/
-  domain: kentico-sample-app-react.surge.sh 
-  skip_cleanup: true
 
